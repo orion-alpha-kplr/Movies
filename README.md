@@ -1,7 +1,7 @@
 # Movies
 
 Guidelines
-- Taille du Dataset (Mego, nbre de records)
+- Taille du Dataset (Méga, nombre de records)
 - Statistiques usuelles
 - N catégories de films
                            Gaming INSIGHT
