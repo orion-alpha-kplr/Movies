@@ -1,6 +1,5 @@
 # Movies
 
-GRrrrr
 
 Guidelines
 - Taille du Dataset (Méga, nombre de records)
