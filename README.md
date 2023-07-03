@@ -18,6 +18,7 @@ Quels sont les films les mieux notés dans une catégorie spécifique ?
 - (Parquet) (CSV) -> Spark SQL
 
 Objectif
+
 S'agit-il de recommander des films en fonction des préférences des utilisateurs, de proposer des films similaires à ceux qu'ils ont aimés, ou d'autres objectifs spécifiques ? 
 
 Descriptif
