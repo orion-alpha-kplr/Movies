@@ -3,11 +3,11 @@
 
 Guidelines
 - Taille du Dataset
-  (Méga : 3,14Mo / nombre de records : )
+  (Méga : 3,14Mo / nombre de records :  100836 ratings from 610 users on 9742 movies)
 - Statistiques usuelles
 - N catégories de films
   
-                           /// Gaming INSIGHT
+                           /// Gaming INSIGHT (plus-value)
 - Les N mieux notés / par catégories / toutes catégories confondues
 - Quelles questions sont pertinentes ? Comment la Data y répond
   
