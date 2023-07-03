@@ -10,8 +10,13 @@ Guidelines
 - (Parquet) (CSV) -> Spark SQL
 
 Objectif
+
 Descriptif
+
 Notes
+
 Roadmap
+
 Architecture
+
 Technos
