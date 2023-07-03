@@ -8,6 +8,7 @@ Guidelines
 - Les N mieux notés / par catégories / toutes catégories confondues
 - Quelles questions sont pertinentes ? Comment la Data y répond
 - (Parquet) (CSV) -> Spark SQL
+
 Objectif
 Descriptif
 Notes
