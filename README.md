@@ -26,7 +26,7 @@ Architecture
 
 Technos :
 - Databricks
-langages de programmation
-frameworks
-bases de données : [https://grouplens.org/datasets/movielens/latest/](url)
-outils d'analyse de données
+- langages de programmation
+- Frameworks : SPARK
+- Bases de données : [https://grouplens.org/datasets/movielens/latest/](url)
+- Outils d'analyse de données
